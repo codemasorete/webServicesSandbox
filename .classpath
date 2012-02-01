@@ -1,0 +1,10 @@
+<classpath>
+  <classpathentry kind="src" path="src/test/java" output="target/test-classes" including="**/*.java"/>
+  <classpathentry kind="src" path="src/main/java" including="**/*.java"/>
+  <classpathentry kind="output" path="target/classes"/>
+  <classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar" sourcepath="M2_REPO/junit/junit/3.8.1/junit-3.8.1-sources.jar"/>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="var" path="M2_REPO/weblogic/javax.ejb/3.0.1/javax.ejb-3.0.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/weblogic/javax.jms/1.1.1/javax.jms-1.1.1.jar"/>
+  <classpathentry kind="var" path="M2_REPO/weblogic/wls-api/10.3/wls-api-10.3.jar"/>
+</classpath>
